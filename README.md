@@ -131,10 +131,3 @@ Para acceder a los endpoints protegidos:
 ## 📅 Fecha de Actualización
 
 Última actualización: 6 de agosto de 2025
-
-## 📬 Contacto
-
-Para cualquier consulta o sugerencia sobre este proyecto, puedes contactar al desarrollador:
-
-- Email: ejemplo@correo.com
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
