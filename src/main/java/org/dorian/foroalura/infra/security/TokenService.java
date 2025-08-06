@@ -1,4 +1,4 @@
-package org.dorian.foroalura.security;
+package org.dorian.foroalura.infra.security;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;

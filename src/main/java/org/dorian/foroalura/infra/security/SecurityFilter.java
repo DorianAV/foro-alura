@@ -1,4 +1,4 @@
-package org.dorian.foroalura.security;
+package org.dorian.foroalura.infra.security;
 
 
 import jakarta.servlet.FilterChain;
